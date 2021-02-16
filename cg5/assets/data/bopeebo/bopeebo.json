@@ -1,5 +1,12 @@
 {
-  "notes": [
+  "song": {
+    "player2": "dad",
+    "player1": "bf",
+    "speed": 1.6,
+    "needsVoices": true,
+    "sectionLengths": [],
+    "song": "Bopeebo",
+    "notes": [
     {
       "sectionNotes": [],
       "lengthInSteps": 16,
@@ -1183,13 +1190,5 @@
         "changeBPM": false,
         "mustHitSection": true
       }
-    ],
-    "player2": "dad",
-    "song": "Gimme-A-Break",
-    "validScore": true,
-    "sections": 0,
-    "needsVoices": true,
-    "speed": 1.6,
-    "bpm": 100
-  }
+  ]
 }
