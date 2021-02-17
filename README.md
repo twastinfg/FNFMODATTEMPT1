@@ -1,6 +1,6 @@
 ## Friday Night Moddin' on Browser ##
 
-Go to hdboye.github.io/FnfModAttempt (or is.gd/mikufnf) to access the mods
+Go to [This link](hdboye.github.io/FnfModAttempt) (or is.gd/mikufnf) to access the mods
 
 Currently on Friday Night Funkin' version: v0.2.7.1
 
